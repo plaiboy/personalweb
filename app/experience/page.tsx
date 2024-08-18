@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     creatorId: '1488897330451562507',
     images: [
       {
-        url: 'https://www.grimfunky.dev/og.jpg',
+        url: '',
         alt: `Seth's homepage showing the title, a short description, social links and a grid of pictures`,
       },
     ], 

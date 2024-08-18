@@ -233,9 +233,9 @@ const personalProjects = [
       'https://github.com/plaiboy/E-commerce-web',
   },
   {
-    name: 'Cumulo',
+    name: 'A blog site ',
     description:
-      'A neat weather dashboard to show the weather in your location as well as one that is searched. An earlier project of mine that was when I was first getting the hang of working with APIs in JavaScript.',
+      'A blog website for a freelance company that builds e-commerce websites.',
     tags: [
       {
         name: 'JavaScript',
@@ -253,7 +253,7 @@ const personalProjects = [
     image: screenshotCumulo,
     logo: logoCumulo,
     sourceCodeLink:
-      'https://github.com/TheInfamousGrim/cumulo-weather-dashboard',
+      'https://acuratech-io.vercel.app/',
   },
 ];
 

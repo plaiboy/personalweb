@@ -79,6 +79,8 @@ interface ExperienceTypes {
 
 function ExperienceCard({ experience }: { experience: ExperienceTypes }) {
   return (
+    
+    
     <VerticalTimelineElement
       contentStyle={{
         background: '#FB6A82',
@@ -126,6 +128,7 @@ function ExperienceCard({ experience }: { experience: ExperienceTypes }) {
         </div>
       </div>
     </VerticalTimelineElement>
+    
   );
 }
 

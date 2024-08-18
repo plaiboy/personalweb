@@ -76,7 +76,7 @@ const About=() => {
                     <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
                         <p>
                         {`Story of my life. I went to The Technical University of Kenya 
-                initially to study for a degree in Civil Engineering & came out as a programmer more than
+                initially to study Civil Engineering & came out more of a programmer than
                 an Engineer. .`}
               </p>
               <p>
